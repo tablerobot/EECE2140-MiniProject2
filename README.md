@@ -3,30 +3,38 @@ Queue Program
 
 Author Hayden Trent
 
+
 Description
 
 This project implements a simple queue using a fixed size array of length 5. The program allows the user to enqueue add dequeue remove peek at the front element check the current size and exit using a terminal menu. The queue logic is implemented in Queue.cpp and the function declarations are in Queue.h.
 
 File Structure
+
 Queue.h
 Contains all function declarations for the queue operations.
 
 main.cpp
+
 Contains the menu system and user interaction logic.
 
 Queue.cpp
+
 Contains the implementation of enqueue dequeue and other queue functions.
 
 Build
+
 Use a C plus plus compiler such as g++
 
 Compile with
+
 g++ main.cpp Queue.cpp -o queue
 
 Run
+
 ./queue
 
 Example Usage
+
 Start the program
 ./queue
 
