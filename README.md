@@ -54,6 +54,6 @@ Select 0 to exit
 
 **Example Terminal Output**
 
-<img width="387" height="860" alt="image" src="https://github.com/user-attachments/assets/83bb4d09-bd4d-4bab-ab1d-de47589e034b" />
+
 
 <img width="387" height="860" alt="image" src="https://github.com/user-attachments/assets/40e5c81b-40b8-4146-90aa-a6dd41d62f78" />
